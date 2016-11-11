@@ -13,4 +13,6 @@
 
 ## Livestream / Video Links
 
+* [Livestream - Full Stack Live](https://livestream.com/accounts/4894689/events/6621548)
+
 1. 
