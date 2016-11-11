@@ -15,5 +15,7 @@
 
 * [Livestream - Full Stack Live](https://livestream.com/accounts/4894689/events/6621548)
 
-1. [Full Stack Live](https://livestream.com/accounts/4894689/events/6621548/videos/141601082)
-2.
+
+
+1. [Full Stack Live 1](https://livestream.com/accounts/4894689/events/6621548/videos/141601082)
+2. [Full Stack Live 2]()
