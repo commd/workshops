@@ -11,6 +11,7 @@
 * [Slides](https://docs.google.com/presentation/d/1FPpbZ919vt8e1k2EGPd7BKhDlHao79ykvYLfDcMOsMo/edit?usp=sharing)
 * [vimgifs](https://vimgifs.com)
 * [ssh config tips](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
+* [Digital Ocean Referral Sign up Link - Get $10 credit](https://m.do.co/c/5bee9b36ba5c)
 
 ## Livestream / Video Links
 
