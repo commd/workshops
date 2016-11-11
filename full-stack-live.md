@@ -10,6 +10,7 @@
 
 * [Slides](https://docs.google.com/presentation/d/1FPpbZ919vt8e1k2EGPd7BKhDlHao79ykvYLfDcMOsMo/edit?usp=sharing)
 * [vimgifs](https://vimgifs.com)
+* [ssh config tips](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 
 ## Livestream / Video Links
 
